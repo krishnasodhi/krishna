@@ -1,0 +1,22 @@
+.container,.row{
+    border: 2px  solid blue
+}
+
+}
+.col-8{
+    background-color: aqua;
+}
+.col-4{
+    background-color: rgb(225, 0, 255);
+}
+.col-md-3{
+    background-color: rgb(10, 248, 41);
+}
+.col-10{
+    background-color: chartreuse;
+}
+.pink,.orange{
+    border: 2px solid;
+    height: 100;
+    width: 70;
+}

@@ -1,0 +1,12 @@
+.container {
+    border: 12px solid rgb(232, 149, 80)
+    }
+    .row{
+        border: 4px solid rgb(112, 49, 49)
+   }
+   .col-3{
+        border: 4px solid rgb(45, 195, 233)
+   }   
+   .col-6{
+     border: 4px solid green
+}
